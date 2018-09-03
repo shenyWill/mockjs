@@ -1,7 +1,7 @@
 const router = [
     {
         html: 'index.html',
-        js: ['index']
+        js: ['index', 'mock']
     }
 ]
 

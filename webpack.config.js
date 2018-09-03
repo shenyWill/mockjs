@@ -30,6 +30,7 @@ if (process.env.type === 'dev') {
 }
 
 const webpack_config = {
+    mode: 'development',
     // 入口
     entry: webpack_entry,
     // 出口
